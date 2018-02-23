@@ -1,4 +1,5 @@
-# <img src="image/notmnist.png">
+
+# <img src="http://yaroslavvb.com/upload/notMNIST/nmn.png"> 
 
 This series of labs, uses **TensorFlow** to label images of English letters! The data used, <a href="http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html">notMNIST</a>, consists of images of a letter from A to J in differents font.
 
